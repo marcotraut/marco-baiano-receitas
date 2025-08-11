@@ -22,11 +22,15 @@ justify-content: center;
 
 } 
 .chamada-texto{
-    margin-right: 5%;
+ margin-right: 5%;
 }
 
 h1 {
 font-size: 40px;
 }
-p{font-size: 20px;
+p{
+font-size: 20px;
+}
+img{
+    height: 100px;
 }
